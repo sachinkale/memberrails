@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  member_id: 1
+  Amount: 1
+  billnumber: MyString
+  date: 2011-08-11 14:09:10
+
+two:
+  member_id: 1
+  Amount: 1
+  billnumber: MyString
+  date: 2011-08-11 14:09:10
